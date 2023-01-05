@@ -26,7 +26,7 @@ No terminal, clone o repositório e acesse o diretório com os seguintes comando
 
 ```
 $ git clone https://github.com/adejota/feedget.git
-$ cd eye-lenses
+$ cd feedget
 ```
 
 ### Server
